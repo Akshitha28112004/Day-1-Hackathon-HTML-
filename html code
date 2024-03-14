@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Choices Foundation Hyderabad</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Choices Foundation Hyderabad</h1>
+        <nav>
+            <ul>
+                <li><a href="#mission">Mission</a></li>
+                <li><a href="#programs">Programs</a></li>
+                <li><a href="#helpline">Helpline Numbers</a></li>
+                <li><a href="#events">Events</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="main-content">
+        <article id="mission">
+            <h2>Our Mission</h2>
+            <p>My Choices Foundation is committed to ending human trafficking and gender-based violence through prevention strategies, advocacy, victim support, and empowering survivors.</p>
+            <p>We believe in creating awareness, providing education, rehabilitation, and fostering a safe environment for those affected.</p>
+        </article>
+
+        <article id="programs">
+            <h2>Our Programs</h2>
+            <p>1. <strong>Empowerment Workshops:</strong> Providing education and training to vulnerable communities to prevent trafficking and abuse. These workshops cover topics such as self-defense, rights awareness, and vocational training.</p>
+            <p>2. <strong>Rescue & Rehabilitation:</strong> Rescuing victims of trafficking and providing them with shelter, medical care, counseling, and skill development programs to help them reintegrate into society.</p>
+            <p>3. <strong>Legal Advocacy:</strong> Supporting survivors through legal proceedings, providing legal aid, and advocating for stronger laws and policies to combat trafficking and protect victims.</p>
+        </article>
+
+        <article id="helpline">
+            <h2>Helpline Numbers</h2>
+            <p>Are you in a healthy relationship?</p>
+            <p>If you or someone you know needs assistance or support, please reach out to our helpline numbers:</p>
+            <ul>
+                <li><strong>Domestic Violence Helpline:</strong>1800 21209131</li>
+                <li><strong>Sex Trafficking Helpline:</strong>1800 419 8588</li>
+            </ul>
+        </article>
+        
+        <aside id="events">
+            <h2>Upcoming Events</h2>
+            <div class="event">
+                <h3>Anti-Trafficking Seminar</h3>
+                <p>Date: March 25, 2024</p>
+                <p>Location: Hyderabad Convention Center</p>
+            </div>
+            <div class="event">
+                <h3>Community Awareness Campaign</h3>
+                <p>Date: April 10, 2024</p>
+                <p>Location: Various communities in Hyderabad</p>
+            </div>
+        </aside>
+    </section>
+
+    <div id="address">
+        <p>Address: H. No 6 - 2- 39 Flat No 301, A Block, Third, Lakdikapul, Hyderabad, Telangana 500004</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 My Choices Foundation Hyderabad. All rights reserved.</p>
+    </footer>
+</body>
+</html>
